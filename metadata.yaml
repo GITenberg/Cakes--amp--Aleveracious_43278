@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '42100'
     url: http://www.gutenberg.org/2009/agents/42100
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43278#Cakes--amp--Aleveracious
 gutenberg_issued: '2013-07-22'
 gutenberg_type: Text
 identifiers:
