@@ -1,0 +1,35 @@
+_repo: Cakes--amp--Aleveracious_43278
+_version: 0.1.0
+alternative_title: "Cakes and Ale\r\nA Dissertation on Banquets Interspersed with\
+  \ Various Recipes, More or Less Original, and anecdotes, mainly veracious"
+covers:
+- cover_type: archival
+  image_path: 43278-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Spencer, Edward
+    aliases:
+    - Mott, Edward Spencer
+    - Gubbins, Nathaniel
+    birthdate: 1844
+    deathdate: 1910
+    gutenberg_agent_id: '42100'
+    url: http://www.gutenberg.org/2009/agents/42100
+description: ''
+gutenberg_issued: '2013-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43278'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dinners and dining'
+- !lcsh 'Entertaining'
+- !lcsh 'Cooking, English'
+- !lcc 'TX'
+- !lcsh 'Gastronomy'
+title: "Cakes & Ale\r\nA Dissertation on Banquets Interspersed with Various Recipes,\
+  \ More or Less Original, and anecdotes, mainly veracious"
+url: http://www.gutenberg.org/ebooks/43278
